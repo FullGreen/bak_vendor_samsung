@@ -16,7 +16,6 @@ LOCAL_PATH := vendor/samsung/c1skt
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/bin/glgps:system/bin/glgps \
-    $(LOCAL_PATH)/proprietary/system/bin/macloader:system/bin/macloader \
     $(LOCAL_PATH)/proprietary/system/bin/rild:system/bin/rild
 
 PRODUCT_COPY_FILES += \
